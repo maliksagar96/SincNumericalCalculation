@@ -10,6 +10,6 @@ This file has trial functions of sin, cosine and exponential.
 
 Finally a sincNumericalAnalysis.m is created which has sinc function along with its plot on 2D plane. This file can be used to visualise the sinc function graphically and find the area under the curve bewtween desired points.
 
-I wanted to calculate the ratio of area between -2PI to 2PI to the area under whole curve. It gave the ration of .9018 which says that 89% area of this curve lie under the x = -2PI to x = 2PI.
+I wanted to calculate the ratio of area between -2PI to 2PI to the area under whole curve. It gave the ration of .9003 which says that 90% area of this curve lie under the x = -2PI to x = 2PI.
 
 
